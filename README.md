@@ -13,7 +13,9 @@
  有线网卡 Ethernet | 瑞昱 Realtek RTL8125B 板载
  声卡 Audio        | 瑞昱 Realtek ALC S1220A 板载
 
-## 关系系统安装后
+## 系统安装
+0. 安装前请自行用GenSMBIOS替换MLB、ROM、SystemSerialNumber、SystemUUID。
+
 1. config.plist和config-z490i.plist中的配置除了'HideAuxiliary'项其他完全一样，config.plist关闭了'HideAuxiliary'，config-z490i.plist开启了'HideAuxiliary'。config.plist可用于系统安装和reset nvram，安装完成和reset nvram后将config-z490i.plist改名回config.plist日常使用，隐藏多余启动项后较为简洁。
 
 2. 用Hackintool修复睡眠项到0/0标绿。
