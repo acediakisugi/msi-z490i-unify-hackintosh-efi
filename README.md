@@ -28,7 +28,7 @@
 添加IOSkywalkFamily.kext V1.1.0和IO80211FamilyLegacy.kext V1.0.0修复曾经免驱的博通无线网卡。
 
 2. 修复系统版本OTA更新
-添加RestrictEvents.kext驱动和boot-args String 'revpatch=sbvmm'修复系统版本OTA更新。
+添加RestrictEvents.kext驱动和boot-args String 'revpatch=sbvmm'修复系统版本OTA更新功能。
 
 3. 修复百度网盘闪退
 添加boot-args String 'ipc_control_port_options=0'和csr-active-config '7F0A0000'修复百度网盘闪退问题。
