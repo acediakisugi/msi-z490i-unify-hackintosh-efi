@@ -23,7 +23,7 @@
 3. 安装完进入系统后需用OpenCore Legacy Patcher 1.4.2进行Post-Install Root Patch方可启用博通无线网卡。
 
 
-## 从MacOS 14.4.1 Sonoma开始支持，对MacOS13的几点修补：
+## 从MacOS 14.4.1 Sonoma开始支持
 1. 修复曾经免驱的博通网卡
 添加IOSkywalkFamily.kext V1.1.0和IO80211FamilyLegacy.kext V1.0.0修复曾经免驱的博通无线网卡。
 
