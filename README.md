@@ -14,7 +14,7 @@
  声卡 Audio        | 瑞昱 Realtek ALC S1220A 板载
 
 ## 系统安装
-0. 安装前请自行用GenSMBIOS替换MLB、ROM、SystemSerialNumber、SystemUUID。
+    #### 0. 安装前请自行用GenSMBIOS替换MLB、ROM、SystemSerialNumber、SystemUUID。
 
 1. config.plist和config-z490i.plist中的配置除了'HideAuxiliary'项其他完全一样
    	- ###### config.plist关闭了'HideAuxiliary'
