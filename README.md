@@ -6,9 +6,9 @@
  ---------|--------
  主板 Motherboard | 微星 MSI MEG Z490i Unify (MS-7C77)
  处理器 CPU       | 英特尔 Intel Core i9-10850K
+ 显卡 Graphic     | AMD Radeon RX 6900 XT (8GB公版)
  内存 Memory      | 宏碁 Acer DDR4 4000MHz 32GB (16GBx2)
  硬盘 M.2 NVME    | 西数 WD_BLACK SN730 M.2 NVME 512GB
- 显卡 Graphic     | AMD Radeon RX 6900 XT (8GB公版)
  无线网卡 WiFi     | 博通 Broadcom BCM943602CS (白苹果原拆)
  有线网卡 Ethernet | Realtek RTL8125B
  声卡 Audio        | Realtek ALC S1220A
