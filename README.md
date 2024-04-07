@@ -19,7 +19,7 @@
 1. config.plist和config-z490i.plist中的配置除了'HideAuxiliary'项其他完全一样
    	- ###### config.plist关闭了'HideAuxiliary'
    	- ###### config-z490i.plist开启了'HideAuxiliary'
-   config.plist可用于系统安装和reset nvram，config-z490i.plist可改名回config.plist日常使用，隐藏多余启动项后较为简洁。
+   config.plist可用于系统安装和reset nvram，config-z490i.plist可改名回config.plist日常使用界面简洁。
 
 2. 用Hackintool修复睡眠项到0/0标绿。
 
