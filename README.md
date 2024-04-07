@@ -36,7 +36,7 @@
 4. 修复虚拟机无法开启
 添加AMFIPass.kext和boot-args String '-amfipassbeta'修复虚拟机无法开启问题。
  
-## 日常使用功能测试
+## 日常功能使用测试
 1. 核显加速
 解码正常，支持缓冲帧。
 
