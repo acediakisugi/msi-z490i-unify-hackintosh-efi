@@ -5,13 +5,13 @@
  规格     | 详细信息
  ---------|--------
  主板 Motherboard | 微星 MSI MEG Z490i Unify (MS-7C77)
- 处理器 CPU       | 英特尔 Intel Core i9-10850K
+ 处理器 CPU       | 英特尔 Intel Core i9-10850K (3.6-5.3Ghz)
  显卡 Graphic     | AMD Radeon RX 6900 XT (8GB公版)
  内存 Memory      | 宏碁 Acer DDR4 4000MHz 32GB (16GBx2)
- 硬盘 M.2 NVME    | 西数 WD_BLACK SN730 M.2 NVME 512GB
+ 硬盘 M.2 NVME    | 西数 WD_BLACK SN730 M.2 NVME (512GB)
  无线网卡 WiFi     | 博通 Broadcom BCM943602CS (白苹果原拆)
- 有线网卡 Ethernet | Realtek RTL8125B
- 声卡 Audio        | Realtek ALC S1220A
+ 有线网卡 Ethernet | 瑞昱 Realtek RTL8125B (板载)
+ 声卡 Audio        | 瑞昱 Realtek ALC S1220A (板载)
 
 ## 关系系统安装后
 1. config.plist和config-z490i.plist中的配置除了'HideAuxiliary'项其他完全一样，
